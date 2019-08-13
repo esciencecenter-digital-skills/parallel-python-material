@@ -1,0 +1,8 @@
+jupyterlab
+matplotlib
+numpy
+
+noodles
+dask
+pyxenon
+
