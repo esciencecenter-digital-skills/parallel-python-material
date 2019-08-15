@@ -6,3 +6,5 @@ noodles
 dask
 pyxenon
 
+calysto-scheme
+
