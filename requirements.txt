@@ -1,6 +1,7 @@
 jupyterlab
 matplotlib
 numpy
+cython
 
 noodles
 dask
