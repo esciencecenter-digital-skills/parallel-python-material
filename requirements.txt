@@ -1,6 +1,7 @@
 jupyterlab
 matplotlib
 numpy
+pandas
 cython
 
 noodles
@@ -8,4 +9,5 @@ dask
 pyxenon
 
 calysto-scheme
+pampy
 
